@@ -1,4 +1,4 @@
-# dynamic-systems-methods
+# Dynamic Systems Forecasting Methods
 assignement 1: DMD 
 
 assignement 2: SINDy
